@@ -247,7 +247,7 @@ main (int argc, char *argv[])
 /*--- Trilinos example metadata
 Categories: vector
 Topics: Creating linear algebra objects
-Prerequisites: lesson02_init_map_vec.cpp
+Prerequisites: lesson01_mpi_only_through_Tpetra.cpp
 */
   return 0;
 }
