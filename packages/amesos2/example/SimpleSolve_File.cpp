@@ -189,3 +189,10 @@ int main(int argc, char *argv[]) {
   // We are done.
   return 0;
 }
+
+
+/*--- Trilinos example metadata
+Categories: direct solvers
+Topics: Solve a linear system
+Prerequisites: lesson03_power_method.cpp
+*/
