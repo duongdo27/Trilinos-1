@@ -361,3 +361,8 @@ main (int argc, char *argv[])
   return 0;
 }
 
+/*--- Trilinos example metadata
+Categories: matrix, vector
+Topics: Creating linear algebra objects
+Prerequisites: lesson02_read_modify_vec.cpp
+*/
