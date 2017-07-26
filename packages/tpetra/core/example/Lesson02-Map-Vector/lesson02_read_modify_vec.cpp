@@ -244,5 +244,10 @@ main (int argc, char *argv[])
     std::cout << "End Result: TEST PASSED" << std::endl;
   }
 
+/*--- Trilinos example metadata
+Categories: vector
+Topics: Creating linear algebra objects
+Prerequisites: lesson02_init_map_vec.cpp
+*/
   return 0;
 }
