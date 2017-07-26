@@ -24,7 +24,7 @@ IF (NOT Trilinos_NO_32BIT_GLOBAL_INDICES)
 
   TRIBITS_ADD_EXECUTABLE_AND_TEST(
     LinearProblem
-    SOURCES LinearProblem.cpp
+    SOURCES Galeri_LinearProblem.cpp
     NUM_MPI_PROCS 1
     COMM serial mpi
     )
