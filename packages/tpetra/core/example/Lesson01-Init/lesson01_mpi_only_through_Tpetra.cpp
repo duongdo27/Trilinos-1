@@ -83,3 +83,9 @@ main (int argc, char *argv[])
   // from main().  Isn't that helpful?
   return 0;
 }
+
+/*--- Trilinos example metadata
+Categories: mpi
+Topics: Setting up parallel code
+Prerequisites: 
+*/
