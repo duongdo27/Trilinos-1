@@ -276,3 +276,9 @@ MPI_Finalize();
 
 return success ? EXIT_SUCCESS : EXIT_FAILURE;
 }
+
+/*--- Trilinos example metadata
+Categories: iterative solvers, preconditioners
+Topics: Solve a linear system
+Prerequisites: Ifpack_ex_Factory.cpp, MatrixMarket_IO.cpp
+*/
