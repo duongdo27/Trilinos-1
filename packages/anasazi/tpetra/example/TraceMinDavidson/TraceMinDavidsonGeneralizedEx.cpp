@@ -267,3 +267,9 @@ int main(int argc, char *argv[]) {
 
   return 0;
 }
+
+/*--- Trilinos example metadata
+Categories: eigensolvers
+Topics: Solve an eigenvalue problem
+Prerequisites: lesson03_power_method.cpp
+*/
