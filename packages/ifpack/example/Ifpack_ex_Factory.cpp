@@ -157,3 +157,9 @@ int main(int argc, char *argv[])
 
   return(EXIT_SUCCESS);
 }
+
+/*--- Trilinos example metadata
+Categories: iterative solvers, preconditioners
+Topics: Solve a linear system
+Prerequisites: Galeri_LinearProblem.cpp, IfpackAztecOO/cxx_main.cpp
+*/
